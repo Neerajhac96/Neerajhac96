@@ -1,6 +1,6 @@
 # Hi, I'm Niraj Kumar 👋
 
-🎓 MCA Student | 💻 Aspiring Software Developer | 📊 Data Analytics Enthusiast  
+🎓 MCA Student | 💻 Aspiring Software Developer | web development  
 
 I build real-world projects using AI, full-stack development, and data-driven solutions.  
 Currently focused on developing scalable applications and solving practical problems using technology.
@@ -39,7 +39,7 @@ An AI-powered chatbot that helps students get answers from college documents lik
 - Semantic search with FAISS  
 - Multi-query retrieval & reranking  
 
-🔗 GitHub: https://github.com/your-username/chatdeva  
+🔗 GitHub: https://github.com/Neerajhac96/chatdeva
 
 ---
 
@@ -54,7 +54,7 @@ A complete web application with authentication and protected dashboard.
 - Protected Routes  
 - User-specific data access  
 
-🔗 GitHub: https://github.com/your-username/fullstack-project  
+🔗 GitHub: https://github.com/Neerajhac96/myfullstack  
 
 ---
 
@@ -68,7 +68,7 @@ A web app that collects and summarizes news using AI.
 - AI-based summarization  
 - Clean UI for reading  
 
-🔗 GitHub: https://github.com/your-username/ai-news-aggregator  
+🔗 GitHub: https://github.com/Neerajhac96/news-aggregator  
 
 ---
 
@@ -81,15 +81,15 @@ A web app that collects and summarizes news using AI.
 
 ## 📫 Contact Me
 
-📧 Email: your-email@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/your-profile  
-🌐 Portfolio: https://your-portfolio-link  
+📧 Email: niraj.kumar.in07@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/niraj649  
+🌐 Portfolio: https://neerajhac96.github.io/portfolio-site/  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?Neerajhac96=Neerajhac96&show_icons=true)
 
 ---
 
