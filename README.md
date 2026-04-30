@@ -1,10 +1,97 @@
-- 👋 Hi, I’m @Neerajhac96
-- 👀 I’m interested in ...web devlopment
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...coding
-- 📫 How to reach me ...call 9693294150
+# Hi, I'm Niraj Kumar 👋
 
-<!---
-Neerajhac96/Neerajhac96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MCA Student | 💻 Aspiring Software Developer | 📊 Data Analytics Enthusiast  
+
+I build real-world projects using AI, full-stack development, and data-driven solutions.  
+Currently focused on developing scalable applications and solving practical problems using technology.
+
+---
+
+## 🚀 Skills
+
+**Languages:**  
+Java, Python, JavaScript  
+
+**Web Development:**  
+HTML, CSS, Bootstrap, Node.js, Express.js  
+
+**Database:**  
+MongoDB, SQL, SQLite  
+
+**AI / Data Analytics:**  
+Pandas, NumPy, FAISS, HuggingFace, RAG  
+
+**Tools:**  
+Git, GitHub, Postman, VS Code  
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 ChatDEVA – AI College Assistant (RAG Chatbot)
+An AI-powered chatbot that helps students get answers from college documents like syllabus, notices, and rules.
+
+**Tech Stack:** Python, Streamlit, FAISS, HuggingFace, SQLite  
+
+**Features:**
+- Admin uploads documents  
+- Student chat interface  
+- Semantic search with FAISS  
+- Multi-query retrieval & reranking  
+
+🔗 GitHub: https://github.com/your-username/chatdeva  
+
+---
+
+### 🌐 Full Stack Web Application (Auth + Dashboard)
+A complete web application with authentication and protected dashboard.
+
+**Tech Stack:** Node.js, Express, MongoDB, JWT  
+
+**Features:**
+- User Signup/Login  
+- JWT Authentication  
+- Protected Routes  
+- User-specific data access  
+
+🔗 GitHub: https://github.com/your-username/fullstack-project  
+
+---
+
+### 📰 AI News Aggregator
+A web app that collects and summarizes news using AI.
+
+**Tech Stack:** FastAPI, Python, News API  
+
+**Features:**
+- Fetch latest news  
+- AI-based summarization  
+- Clean UI for reading  
+
+🔗 GitHub: https://github.com/your-username/ai-news-aggregator  
+
+---
+
+## 📈 Currently Working On
+- Improving ChatDEVA into a SaaS product for colleges  
+- Learning advanced Data Analytics (Pandas, SQL, Visualization)  
+- Building scalable backend systems  
+
+---
+
+## 📫 Contact Me
+
+📧 Email: your-email@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/your-profile  
+🌐 Portfolio: https://your-portfolio-link  
+
+---
+
+## 📊 GitHub Stats
+
+![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+---
+
+## ⚡ Fun Fact
+I enjoy building AI-powered tools that solve real-life problems for students.
