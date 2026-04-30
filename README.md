@@ -89,7 +89,7 @@ A web app that collects and summarizes news using AI.
 
 ## 📊 GitHub Stats
 
-![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?Neerajhac96=Neerajhac96&show_icons=true)
+![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neerajhac96&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
