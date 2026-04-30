@@ -89,8 +89,7 @@ A web app that collects and summarizes news using AI.
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajhac96&layout=compact&theme=tokyonight&hide_border=true)
----
+![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neerajhac96&show_icons=true)---
 
 ## ⚡ Fun Fact
 I enjoy building AI-powered tools that solve real-life problems for students.
